@@ -1,12 +1,11 @@
 # week1
 <img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/882c620d-922f-4a7b-b844-196fef19daf4" />
 
-# week2初版  
+# 南瓜初版  
 <img width="1800" height="1200" alt="image" src="https://github.com/user-attachments/assets/7c6d4029-6df0-4eab-92a0-ed59e974658d" />  
 <img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/21de61fc-bed3-4aa6-a28f-e78b818b2519" />
 
-# week2优化版
-# week4
+# 南瓜优化版
 ## 南瓜价格预测模型深度分析
 ### 数据细节分析  
 - 日期信息价值分析  
@@ -93,11 +92,25 @@ XGBoost在n=150后收益递减
 首选XGBoost/LightGBM  
 次选随机森林（当需要更强解释性时）  
 设置合理的树深度限制（5-7层）
+### 结果  
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/d107a45f-25c5-4557-a34e-bec0412e9c53" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/679bcba3-0009-4b5c-8ef2-50281e4f04ea" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/a519d95e-8f13-4b63-adfd-928d92b081c5" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/20b8c5dc-e19d-484f-80e8-22477a7fdae4" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/3b3bd06d-5501-4a4d-94a5-500cb2036be1" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/0a0ab397-035c-47b9-884f-c3709c893147" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/7a68a794-b836-44ca-af42-4180020fa554" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/1d1d5fa9-747d-4e30-adde-c402e0975585" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/0a993a61-a89b-4869-a2a1-f057388c6bb7" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/6abd99a4-26ba-406a-9917-6ccf78e0b3d8" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/445276af-b71f-4a9a-afc3-9c3c70d22f96" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/35e4ebd3-9464-4731-bb8a-e6d1443a36b2" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/fb36bfb3-325b-4a79-982f-4ff36cab89d1" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/6b6f5d17-a0cb-4528-81c0-8dd2cbbab86f" />
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/5712ea55-ecd0-431a-89ce-2887454aa87d" />
+<img width="453" height="139" alt="image" src="https://github.com/user-attachments/assets/8a9f1923-fd98-49df-979b-68b229060994" />
 
 # 能源
-### 模型结果  
-<img width="433" height="147" alt="image" src="https://github.com/user-attachments/assets/5b6b1451-99f7-417b-bf29-1e1d057c97be" />
-
 ## 实验结果  
 - 模型对比结果  
 <img width="904" height="666" alt="image" src="https://github.com/user-attachments/assets/8bb7c2df-4233-4b09-87a0-506950ce3250" />  
