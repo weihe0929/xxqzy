@@ -12,7 +12,8 @@
 - ​​品种分布​​  
 "HOWDEN"类型占比约35%（样本充分）  
 "PIE TYPE"占比约25%  
-其他特殊品种（如"FAIRY TALE"）合计占比<5%（样本不足）  
+其他特殊品种（如"FAIRY TALE"）合计占比<5%（样本不足）
+
 - ​​规格分布​   
 "MEDIUM"规格占比约45%  
 "LARGE"规格占比约30%  
@@ -89,10 +90,12 @@ XGBoost在n=150后收益递减
 次选随机森林（当需要更强解释性时）  
 设置合理的树深度限制（5-7层）  
 
-### 模型结果
+### 模型结果  
+<img width="433" height="147" alt="image" src="https://github.com/user-attachments/assets/5b6b1451-99f7-417b-bf29-1e1d057c97be" />
 
-## 实验结果
-- 模型对比结果
+## 实验结果  
+- 模型对比结果  
 <img width="904" height="666" alt="image" src="https://github.com/user-attachments/assets/8bb7c2df-4233-4b09-87a0-506950ce3250" />  
 - 决策树（前两层）
+
 <img width="2211" height="1242" alt="image" src="https://github.com/user-attachments/assets/3912f857-34b9-4a9e-8f3f-79d1bd41fda8" />
