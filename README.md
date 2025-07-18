@@ -1,7 +1,12 @@
 # week1
-# week2初版
+<img width="1500" height="900" alt="image" src="https://github.com/user-attachments/assets/882c620d-922f-4a7b-b844-196fef19daf4" />
+
+# week2初版  
+<img width="1800" height="1200" alt="image" src="https://github.com/user-attachments/assets/7c6d4029-6df0-4eab-92a0-ed59e974658d" />  
+<img width="1800" height="900" alt="image" src="https://github.com/user-attachments/assets/21de61fc-bed3-4aa6-a28f-e78b818b2519" />
+
 # week2优化版
-# week3
+# week4
 ## 南瓜价格预测模型深度分析
 ### 数据细节分析  
 - 日期信息价值分析  
@@ -12,8 +17,7 @@
 - ​​品种分布​​  
 "HOWDEN"类型占比约35%（样本充分）  
 "PIE TYPE"占比约25%  
-其他特殊品种（如"FAIRY TALE"）合计占比<5%（样本不足）
-
+其他特殊品种（如"FAIRY TALE"）合计占比<5%（样本不足）  
 - ​​规格分布​   
 "MEDIUM"规格占比约45%  
 "LARGE"规格占比约30%  
@@ -88,8 +92,9 @@ XGBoost在n=150后收益递减
 - ​​模型选择策略​​
 首选XGBoost/LightGBM  
 次选随机森林（当需要更强解释性时）  
-设置合理的树深度限制（5-7层）  
+设置合理的树深度限制（5-7层）
 
+# 能源
 ### 模型结果  
 <img width="433" height="147" alt="image" src="https://github.com/user-attachments/assets/5b6b1451-99f7-417b-bf29-1e1d057c97be" />
 
